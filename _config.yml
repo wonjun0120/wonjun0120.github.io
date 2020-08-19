@@ -12,19 +12,22 @@ url: "https://codefabian.github.io/"
 # Website info
 title: Fabian's Blog
 description: 소통하는 개발자 😀
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+cover: assets/images/coverB.jpg
+# cover 은 커버페이지
+# logo: assets/images/blog-icon.png
+# 윗줄 logo 는 소통하는 개발자 위에 나오는 로고 부분
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False #True 로 바꾸면 구독이 나올것
+# you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+# twitter: tryghost # replace by your username
+# facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
