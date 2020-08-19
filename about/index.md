@@ -3,15 +3,36 @@ layout: page
 current: about
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: "assets/images/ghost.png"
 class: page-template
-subclass: 'post page'
+subclass: "post page"
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+## 기본 정보
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+- 거주지: Ilsan, Korea 🇰🇷
+- 이름: 김현규 (Hyunkyu Kim)
+- 이메일: khg.fabian@gmail.com
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+## 스택
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+### Tool
+
+- Git, Github
+- Slack, Notion, Figma
+
+### Frontend & BackEnd
+
+- Javascript(ES6), React(Hook), React-Native, Redux
+- Node.js, AWS, Express, Sequelize, MySQL
+
+### 관심 있는 것
+
+- TypeScript
+- How to write the clean code
+- Docker
+- IOS, Android
+
+## 깃헙주소
+
+- [깃헙](https://github.com/codeFabian)
