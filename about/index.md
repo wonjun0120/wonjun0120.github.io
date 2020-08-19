@@ -1,14 +1,12 @@
 ---
 layout: page
-current: about
+# current: about
 title: About
 navigation: true
 # logo: "assets/images/ghost.png"
-# class: page-template
+class: page-template
 subclass: "post page"
 ---
-
-# **About**
 
 ## 기본 정보
 
