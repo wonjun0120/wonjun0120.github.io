@@ -44,15 +44,13 @@ author: 김현규
 
 ![image](https://user-images.githubusercontent.com/46562138/90764644-91efe500-e323-11ea-9e74-c3b3c44fb502.png)
 
-<pre>
-<code>
-{<upstream>
+```
+<upstream>
 upstream dev 에서 초기설정 후 push upstream dev  >> fork to origin
 git clone --> git checkout -b Feature1/"기능"
 Feature1 작업 후 git push origin Feature1 > push origin dev
-그리고 하나의 기능이 끝나면 팀원전체가 upstream에 푸시를 하고 merge한 뒤에 각자의 origin에 pull 을 받고 다시 Feature2 에서 시작}
-</code>
-</pre>
+그리고 하나의 기능이 끝나면 팀원전체가 upstream에 푸시를 하고 merge한 뒤에 각자의 origin에 pull 을 받고 다시 Feature2 에서 시작
+```
 
 ![image](https://user-images.githubusercontent.com/46562138/90764725-bcda3900-e323-11ea-917f-b9564716296c.png)
 
