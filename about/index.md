@@ -1,6 +1,6 @@
 ---
 layout: page
-# current: about
+current: about
 title: About
 navigation: true
 # logo: "assets/images/ghost.png"
@@ -10,7 +10,7 @@ subclass: "post page"
 
 ## 기본 정보
 
-- 거주지: Ilsan, Korea 🇰🇷
+- 거주지: 일산, 대한민국 🇰🇷
 - 이름: 김현규 (Hyunkyu Kim)
 - 이메일: yolo.fabian.k@gmail.com
 
