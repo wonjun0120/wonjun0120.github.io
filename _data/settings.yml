@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 title: Fabian's Blog
-logo: logo.svg # You can add own logo.
+# logo: logo.svg # You can add own logo.
 description: 소통하는 FE 개발자 😃
 
 #-------------------------------

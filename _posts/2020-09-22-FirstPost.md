@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/StartPost.jpg
+image: 02.jpg
 navigation: True
 title: Github.io 시작
 date: 2020-09-22 01:02:00
