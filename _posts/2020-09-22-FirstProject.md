@@ -28,19 +28,14 @@ author: 김현규
 
 ## **First Project**
 
-> 우리의 프로젝트 명은 “LookEther” 로 옷스타일에 대한 “Look” 그리고 날씨에 대한 “Weather” 을 따서 “LookEther” 이 되었다.
-> 그리고 팀명은 QuadCore로 4명의 구성원이 힘을 합쳐 해결하자는 의미로 짓게 되었다.
->
-> 날씨에 따라서 적절한 옷을 추천하여 보여주는 웹앱 서비스이다.
+우리의 프로젝트 명은 “LookEther” 로 옷스타일에 대한 “Look” 그리고 날씨에 대한 “Weather” 을 따서 “LookEther” 이 되었다.
+그리고 팀명은 QuadCore로 4명의 구성원이 힘을 합쳐 해결하자는 의미로 짓게 되었다. 날씨에 따라서 적절한 옷을 추천하여 보여주는 웹앱 서비스이다.
 
 <br>
 
 ## **How to managed Project**
 
-> 프로젝트 관리는 github에서 하였다. project 를 bareminimum, advance, nightmare 단계의 sprint1, 2, 3 를 나누어 TaskCard를 작성하였다.
-> 또한, 커밋메시지를 날릴 때의 커밋룰을 정하였고 upstream 레파지토리에 기본적인 초기셋팅을 맞춘 뒤에 각자의 origin 에 포크를 한뒤에 각자의 로컬의 클론을 하고 branch를 생성하여 시작하였다.
-> 이 부분에서 아쉬웠던 부분은 branch 를 기능별로 만들어서 작업을 했어야 했는데 그렇게 진행하지않아 branch의 목적을 살짝 잃었던 것이 아쉬웠다.
-> 다음 프로젝트 때는 브랜치를 기능별로 만들어 작업을 하고 푸쉬를 하는 식으로 잘 해보도록 해야겠다는 생각이 들었다.
+프로젝트 관리는 github에서 하였다. project 를 bareminimum, advance, nightmare 단계의 sprint1, 2, 3 를 나누어 TaskCard를 작성하였다. 또한, 커밋메시지를 날릴 때의 커밋룰을 정하였고 upstream 레파지토리에 기본적인 초기셋팅을 맞춘 뒤에 각자의 origin 에 포크를 한뒤에 각자의 로컬의 클론을 하고 branch를 생성하여 시작하였다. 이 부분에서 아쉬웠던 부분은 branch 를 기능별로 만들어서 작업을 했어야 했는데 그렇게 진행하지않아 branch의 목적을 살짝 잃었던 것이 아쉬웠다. 다음 프로젝트 때는 브랜치를 기능별로 만들어 작업을 하고 푸쉬를 하는 식으로 잘 해보도록 해야겠다는 생각이 들었다.
 
 ![image](https://user-images.githubusercontent.com/46562138/90764644-91efe500-e323-11ea-9e74-c3b3c44fb502.png)
 
