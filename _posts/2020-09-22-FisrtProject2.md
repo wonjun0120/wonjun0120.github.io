@@ -4,7 +4,7 @@ current: post
 image: original.jpg
 navigation: True
 title: First Project (LookEther) 회고(2)
-date: 2020-09-22 16:10:00
+date: 2020-09-22 16:00:00
 tags: CodeStates
 # class: post-template
 # subclass: "post"
