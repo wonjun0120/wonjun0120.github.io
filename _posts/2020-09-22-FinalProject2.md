@@ -4,7 +4,7 @@ current: post
 cover: album.jpg
 navigation: True
 title: 4주 프로젝트 (Memory.log) 회고(2)
-date: 2020-08-26 11:43:00
+date: 2020-09-22 16:05:00
 tags: CodeStates, Project
 # class: post-template
 # subclass: "post"
