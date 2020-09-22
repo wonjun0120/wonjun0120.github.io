@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: album.jpg
+image: album.jpg
 navigation: True
 title: 4주 프로젝트 (Memory.log) 회고(2)
 date: 2020-09-22 16:05:00
