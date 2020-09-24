@@ -13,19 +13,23 @@ permalink: /about/
 
 ## 스택
 
+**Frontend**
+
+- Javascript(ES6), React(Hook), React-Native
+
+**BackEnd**
+
+- Node.js, AWS, Express, Sequelize, MySQL
+
 ### Tool
 
 - Git, Github
 - Slack, Notion, Figma
 
-### Frontend & BackEnd
-
-- Javascript(ES6), React(Hook), React-Native, Redux
-- Node.js, AWS, Express, Sequelize, MySQL
-
 ### 관심 있는 것
 
 - TypeScript
+- Redux
 - How to write the clean code
 - Docker
 - IOS, Android
