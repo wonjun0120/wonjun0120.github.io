@@ -2,7 +2,7 @@
 layout: post
 title: "TIL, 타입스크립트 시작"
 date: 2020-10-06 22:45:00
-image: typescript.png
+image: typescript2.jpg
 tags: TIL
 ---
 
