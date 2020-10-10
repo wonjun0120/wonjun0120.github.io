@@ -2,7 +2,7 @@
 layout: post
 title: "TIL, 타입스크립트 개념"
 date: 2020-10-10 17:30:00
-image: typescript2.jpg
+image: superset.png
 tags: TIL
 ---
 
