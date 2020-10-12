@@ -1,39 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
-# image: 01.jpg
+title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+permalink: /about
+comments: false
+image: assets/images/screenshot.jpg
+imageshadow: true
 ---
 
-## 기본 정보
+This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
 
-- 거주지: 일산, 대한민국 🇰🇷
-- 이름: 김현규 (Hyunkyu Kim)
-- 이메일: yolo.fabian.k@gmail.com
+<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
 
-## 스택
-
-**Frontend**
-
-- Javascript(ES6), React(Hook), React-Native
-
-**BackEnd**
-
-- Node.js, AWS, Express, Sequelize, MySQL
-
-### Tool
-
-- Git, Github
-- Slack, Notion, Figma
-
-### 관심 있는 것
-
-- TypeScript
-- Redux
-- How to write the clean code
-- Docker
-- IOS, Android
-
-## 깃헙주소
-
-- [깃헙](https://github.com/codeFabian)
