@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-image: stackQueue.jpg
+image: assets/stackQueue.jpg
 navigation: True
 title: 자료구조(1), Stack,Queue
 date: 2020-09-22 17:20:00
