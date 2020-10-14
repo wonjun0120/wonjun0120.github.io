@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-image: assets/original.jpg
+image: assets/images/original.jpg
 navigation: True
 title: First Project (LookEther) 회고(2)
 date: 2020-09-22 16:00:00

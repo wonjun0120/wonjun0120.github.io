@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-image: assets/camera.jpg
+image: assets/images/camera.jpg
 navigation: True
 title: 4주 프로젝트 (Memory.log) 회고(1)
 date: 2020-09-22 16:11:00
