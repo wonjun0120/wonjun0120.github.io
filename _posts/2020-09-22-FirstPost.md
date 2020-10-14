@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-image:
+image: https://images.unsplash.com/photo-1516381548400-349d680edb56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1275&q=80
 navigation: True
 title: Github.io 시작
 date: 2020-09-22 01:02:00
