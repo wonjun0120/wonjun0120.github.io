@@ -9,15 +9,14 @@ imageshadow: true
 
 ## 기본 정보
 
-- 거주지: 일산, 대한민국 🇰🇷
-- 이름: 김현규 (Hyunkyu Kim)
-- 이메일: yolo.fabian.k@gmail.com
+- 이름: 최원준 (Wonjun Choi)
+- 이메일: wonjun0120@gmail.com
 
 ## 스택
 
 **Frontend**
 
-- Javascript(ES6), React(Hook), React-Native
+- Javascript(ES6), React
 
 **BackEnd**
 
@@ -26,16 +25,15 @@ imageshadow: true
 ### Tool
 
 - Git, Github
-- Slack, Notion, Figma
+- Slack, Notion, Miro
 
 ### 관심 있는 것
 
 - TypeScript
-- Redux
 - How to write the clean code
-- Docker
-- IOS, Android
+- Mysql
+
 
 ## 깃헙주소
 
-- [깃헙](https://github.com/codeFabian)
+- [깃헙](https://github.com/wonjun0120)
